@@ -90,7 +90,3 @@ Java-Income-Tracker-Application/
  ├── pom.xml              # Maven dependencies
  └── README.md            # Project documentation
 ```
-
----
-
-Would you like me to also include a **sample ER diagram** (Entity-Relationship) for the income tracker database so contributors can quickly understand the schema?
